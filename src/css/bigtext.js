@@ -7,7 +7,7 @@ function Bigtext() {
             <p className='subtitle'>Lorem ipsum dolor sit amet consectetur adipisicing elit. beatae molestias earum eveniet.</p>
             <br />
             <div className='search-bar'>
-            <input type='search' placeholder='search' />
+            <input type='search' placeholder='marvel' />
 
             </div>
         </div>
